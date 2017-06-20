@@ -7,10 +7,11 @@ public class Calculator {
 		return a+b;
 	}
 	public int multiply(int a, int b){
-		System.out.println("Multiplication Functionality ");
+		System.out.println("Multiplication Functionality   ");
 		return a*b;
 	}
 	public int substract(int a, int b){
+		System.out.println("Substraction Functionality   ");
 		return a-b;
 	}
 	public int division(int a, int b){
